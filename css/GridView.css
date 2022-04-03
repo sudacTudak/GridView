@@ -1,0 +1,22 @@
+.grid-view {
+    border-collapse: collapse;
+    border: 1px solid #7f7f7f;
+}
+
+.grid-view tr, td, th {
+    border: 1px solid #7f7f7f;
+}
+
+.grid-view td, th {
+    padding: 10px 20px;
+}
+
+.grid-view th {
+    text-transform: uppercase;
+}
+
+.title-table {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 15px;
+}
